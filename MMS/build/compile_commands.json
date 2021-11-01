@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/mohammad/Desktop/MMS/build",
+  "command": "/usr/bin/g++-7   -I/home/mohammad/Desktop/MMS/include  -g   -std=gnu++11 -o CMakeFiles/app.dir/src/main.cpp.o -c /home/mohammad/Desktop/MMS/src/main.cpp",
+  "file": "/home/mohammad/Desktop/MMS/src/main.cpp"
+},
+{
+  "directory": "/home/mohammad/Desktop/MMS/build",
+  "command": "/usr/bin/g++-7   -I/home/mohammad/Desktop/MMS/include  -g   -std=gnu++11 -o CMakeFiles/app.dir/src/matrix.cpp.o -c /home/mohammad/Desktop/MMS/src/matrix.cpp",
+  "file": "/home/mohammad/Desktop/MMS/src/matrix.cpp"
+},
+{
+  "directory": "/home/mohammad/Desktop/MMS/build",
+  "command": "/usr/bin/g++-7   -I/home/mohammad/Desktop/MMS/include  -g   -std=gnu++11 -o CMakeFiles/app.dir/src/whatCommand.cpp.o -c /home/mohammad/Desktop/MMS/src/whatCommand.cpp",
+  "file": "/home/mohammad/Desktop/MMS/src/whatCommand.cpp"
+},
+{
+  "directory": "/home/mohammad/Desktop/MMS/build",
+  "command": "/usr/bin/g++-7   -I/home/mohammad/Desktop/MMS/include  -g   -std=gnu++11 -o CMakeFiles/app.dir/src/func.cpp.o -c /home/mohammad/Desktop/MMS/src/func.cpp",
+  "file": "/home/mohammad/Desktop/MMS/src/func.cpp"
+}
+]
